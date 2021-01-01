@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+  [
+    { "item": "examplemod:xray"  }
+  ],
+  "result":
+  {
+    "item": "minecraft:creeper_spawn_egg",
+    "count": 64
+  }
+}
